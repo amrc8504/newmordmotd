@@ -11,6 +11,6 @@
 
 ## We have a Discord Server :
 
-Here is the link to the **[Discord](https://discord.gg/NTNj4XZf)**
+Here is a link to the <a style="color: #7289da;" id="Discord">https://discord.gg/NTNj4XZf</>
 
 ### See you on the battlefield.
