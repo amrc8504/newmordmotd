@@ -1,6 +1,6 @@
 # **Snowman's Duelyard - US East**
 
-![Snowman_Logo](media/snowman.jpg)
+![Snowman_Logo]([media/snowman.jpg](https://raw.githubusercontent.com/amrc8504/newmordmotd/main/media/snowman.jpg))
 
 ## Rules :
 - No RDM
